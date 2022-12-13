@@ -1,0 +1,65 @@
+#style-switcher h2 a { background: #fff none repeat scroll 0 0 }
+#style-switcher h2 a i {color: #2f7af8;}
+
+.section-title span{background: #2f7af8 none repeat scroll 0 0;}
+
+.topcontrol {background: #2f7af8 none repeat scroll 0 0;}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #2f7af8 !important;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+    color: #2f7af8 !important;
+    background-color: transparent;
+}
+
+.menu-top li a:hover { color: #2f7af8!important }
+.navbar-default.menu-shrink li a:hover { color: #2f7af8 !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #2f7af8 }
+.single_about span{background: #2f7af8 none repeat scroll 0 0;}
+.serviceBox:hover .service-icon{color: #2f7af8;}
+.serviceBox:hover:after{border-color: #2f7af8;}
+
+.our-team .icon{background: #2f7af8 none repeat scroll 0 0;}
+.our-team .social li a:hover{background: #2f7af8;}
+.our-team .social li a{background: #2f7af8;}
+.owl-theme .owl-controls .owl-page span {background-color: #2f7af8 !important;}
+
+.btn-promotion-bg {background: #2f7af8 none repeat scroll 0 0;border: 1px solid #2f7af8;}
+
+
+.single_service > i {background: #2f7af8 none repeat scroll 0 0;border: 1px solid #2f7af8;}
+
+.gallery_info a:hover{color: #2f7af8;}
+
+.project-list li a:hover { color: #2f7af8 }
+
+.portfolio-filters li.active {background:#2f7af8;border: 1px solid #2f7af8;}
+.portfolio-filters li:hover {background:#2f7af8;border: 1px solid #2f7af8;}
+.box:after{background-color:#2f7af8;}
+.pricingTable:after{background: #2f7af8;}
+
+.pricingTable .price-value{border-bottom: 5px solid #2f7af8;}
+.pricingTable .icon {color: #2f7af8;}
+.newsletter_form_border{background: #2f7af8 none repeat scroll 0 0;}
+
+.btn-newsletter-bg {background: #2f7af8 none repeat scroll 0 0;border: 2px solid #2f7af8;}
+
+.contact input:hover, .contact input:focus {border: 2px solid #2f7af8 ;}
+.contact textarea:hover, .contact textarea:focus {border: 2px solid #2f7af8 ;}
+.btn-contact-bg {background: #2f7af8 none repeat scroll 0 0;}
+
+.btn-promotion-bg {background: #2f7af8 none repeat scroll 0 0;border: 1px solid #2f7af8;}
+
+
+.nav-tabs > li.active > a{background: #2f7af8!important;}
+.nav-tabs > li > a:hover,
+.nav-tabs > li.active > a:hover{background: #2f7af8!important;border: 1px solid #2f7af8!important;}
+
+.menu-inner h4 span {color: #2f7af8;}
+

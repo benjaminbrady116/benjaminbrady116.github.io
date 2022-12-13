@@ -1,0 +1,136 @@
+#style-switcher h2 a {
+  background: #fff none repeat scroll 0 0
+}
+
+#style-switcher h2 a i {
+  color: #72c02c;
+}
+
+.section-title span {
+  background: #72c02c none repeat scroll 0 0;
+}
+
+.topcontrol {
+  background: #72c02c none repeat scroll 0 0;
+}
+
+
+
+
+
+
+.single_about span {
+  background: #72c02c none repeat scroll 0 0;
+}
+
+.serviceBox:hover .service-icon {
+  color: #72c02c;
+}
+
+.serviceBox:hover:after {
+  border-color: #72c02c;
+}
+
+.our-team .icon {
+  background: #72c02c none repeat scroll 0 0;
+}
+
+.our-team .social li a:hover {
+  background: #72c02c;
+}
+
+.our-team .social li a {
+  background: #72c02c;
+}
+
+.owl-theme .owl-controls .owl-page span {
+  background-color: #72c02c !important;
+}
+
+.btn-promotion-bg {
+  background: #72c02c none repeat scroll 0 0;
+  border: 1px solid #72c02c;
+}
+
+
+.single_service>i {
+  background: #72c02c none repeat scroll 0 0;
+  border: 1px solid #72c02c;
+}
+
+.gallery_info a:hover {
+  color: #72c02c;
+}
+
+.project-list li a:hover {
+  color: #72c02c
+}
+
+.portfolio-filters li.active {
+  background: #72c02c;
+  border: 1px solid #72c02c;
+}
+
+.portfolio-filters li:hover {
+  background: #72c02c;
+  border: 1px solid #72c02c;
+}
+
+.box:after {
+  background-color: #72c02c;
+}
+
+.pricingTable:after {
+  background: #72c02c;
+}
+
+.pricingTable .price-value {
+  border-bottom: 5px solid #72c02c;
+}
+
+.pricingTable .icon {
+  color: #72c02c;
+}
+
+.newsletter_form_border {
+  background: #72c02c none repeat scroll 0 0;
+}
+
+.btn-newsletter-bg {
+  background: #72c02c none repeat scroll 0 0;
+  border: 2px solid #72c02c;
+}
+
+.contact input:hover,
+.contact input:focus {
+  border: 2px solid #72c02c;
+}
+
+.contact textarea:hover,
+.contact textarea:focus {
+  border: 2px solid #72c02c;
+}
+
+.btn-contact-bg {
+  background: #72c02c none repeat scroll 0 0;
+}
+
+.btn-promotion-bg {
+  background: #72c02c none repeat scroll 0 0;
+  border: 1px solid #72c02c;
+}
+
+
+.nav-tabs>li.active>a {
+  background: #72c02c !important;
+}
+
+.nav-tabs>li>a:hover,
+.nav-tabs>li.active>a:hover {
+  background: #72c02c !important;
+  border: 1px solid #72c02c !important;
+}
+
+.menu-inner h4 span {
+  color: #72c02c;
+}
